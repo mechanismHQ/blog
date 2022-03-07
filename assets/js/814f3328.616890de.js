@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[535],{5641:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"New Clarity functions coming in Stacks 2.1","permalink":"/blog/clarity-2-functions"}]}')}}]);
