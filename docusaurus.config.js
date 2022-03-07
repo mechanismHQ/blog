@@ -9,7 +9,7 @@ const config = {
   title: "Mechanism Blog",
   // tagline: "Dinosaurs are cool",
   url: "https://mechanismHQ.github.io",
-  baseUrl: "/blog",
+  baseUrl: "/blog/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/mechanism-profile.png",
