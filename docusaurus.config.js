@@ -64,6 +64,23 @@ const config = {
       footer: {
         // style: "dark",
         links: [
+          {
+            title: "Links",
+            items: [
+              {
+                label: "Mechanism",
+                href: "https://mechanism.so",
+              },
+              {
+                label: "Careers",
+                href: "https://mechanism.breezy.hr",
+              },
+              {
+                label: "Twitter",
+                href: "https://twitter.com/mechanismHQ",
+              },
+            ],
+          },
           // {
           //   title: "Docs",
           //   items: [
