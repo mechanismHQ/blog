@@ -42,6 +42,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       image: "img/og_image.png",
+      colorMode: {
+        defaultMode: "dark",
+        disableSwitch: true,
+      },
       navbar: {
         title: "Mechanism Blog",
         logo: {
