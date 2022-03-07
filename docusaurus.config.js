@@ -8,8 +8,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Mechanism Blog",
   // tagline: "Dinosaurs are cool",
-  url: "https://mechanismHQ.github.io/blog",
-  baseUrl: "/",
+  url: "https://mechanismHQ.github.io",
+  baseUrl: "/blog",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/mechanism-profile.png",
@@ -41,6 +41,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      image: "img/og_image.png",
       navbar: {
         title: "Mechanism Blog",
         logo: {
