@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[874],{1170:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/tokenomics","name":"Tokenomics","count":1,"permalink":"/tags/tokenomics"}')}}]);

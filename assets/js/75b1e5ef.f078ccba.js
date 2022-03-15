@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[913],{5914:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/po-xl","name":"PoXL","count":1,"permalink":"/tags/po-xl"}')}}]);
