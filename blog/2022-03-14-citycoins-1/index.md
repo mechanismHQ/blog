@@ -1,13 +1,13 @@
 ---
-draft: true
 tags: [CityCoins, PoXL, Tokenomics]
-sidebar_label: CityCoins ideas (Part 1)
+sidebar_label: PoXL ideas (Part 1)
 authors: [hank]
 hide_table_of_contents: false
-slug: citycoins-proportional-mining-rewards
+slug: poxl-proportional-mining-rewards
+date: 2022-03-15
 ---
 
-# CityCoins ideas (part 1): Proportional mining rewards
+# PoXL ideas: Proportional mining rewards
 
 In this post, I’d like to make the case for changing how mining rewards in CityCoins (or any PoXL project) are distributed. Currently, mining is a “winner takes all” model. Instead, I’m advocating for **proportional mining rewards**.
 
@@ -16,7 +16,7 @@ In this post, I’d like to make the case for changing how mining rewards in Cit
 The core thesis behind this change is:
 
 - Proportional rewards will increase miner participation
-- Increasing miner participation is good for CityCoins
+- Increasing miner participation is good for a PoXL project
 
 ## PoXL vs PoX
 
@@ -66,7 +66,7 @@ As we can see, there quickly becomes a point where your probability of ending of
 
 We can also demonstrate the need to mine for many blocks in order to end up profitable. To visualize this, we can set up a scenario with fixed variables and see how likely it is for a miner to be profitable based on the number of blocks they mined.
 
-In this chart, the miner has a 2% chance of winning, and the miner discount is 11%. Because of this discount, the expected value of mining is +11%. However, actually making a profit depends on the number of blocks they mine.
+In this chart, the miner has a 5% chance of winning, and the miner discount is 11%. Because of this discount, the expected value of mining is +11%. However, actually making a profit depends on the number of blocks they mine.
 
 ![profit vs blocks mined](./%2BProfit%20probability%20vs.%20Blocks%20mined.png)
 
