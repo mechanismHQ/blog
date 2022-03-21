@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[813],{9842:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/de-fi","name":"DeFi","count":1,"permalink":"/tags/de-fi"}')}}]);
